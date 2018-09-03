@@ -1,0 +1,17 @@
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\tests.deps.json
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.json
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.dev.json
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\tests.dll
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\tests.pdb
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\20180820_Programa1.dll
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\bin\Debug\netcoreapp2.1\20180820_Programa1.pdb
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\obj\Debug\netcoreapp2.1\tests.csprojAssemblyReference.cache
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\obj\Debug\netcoreapp2.1\tests.csproj.CoreCompileInputs.cache
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfoInputs.cache
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfo.cs
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\obj\Debug\netcoreapp2.1\tests.csproj.CopyComplete
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\obj\Debug\netcoreapp2.1\tests.dll
+c:\Users\pluch\OneDrive\Documents\UCU\2018\Programación 2\Testing Directory\20180903_PersonaCI_Debugging\tests\obj\Debug\netcoreapp2.1\tests.pdb
